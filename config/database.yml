@@ -1,0 +1,18 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  database: <%= DATABASE_BASE_NAME %>_wat
+  pool: 5
+
+development:
+  <<: *default
+  database: <%= DATABASE_BASE_NAME %>_development
+
+test:
+  <<: *default
+  database: <%= DATABASE_BASE_NAME %>_test
+
+production:
+  <<: *default
+  database: <%= DATABASE_BASE_NAME %>_production
+  pool: <%= DATABASE_POOL_PROD %>
