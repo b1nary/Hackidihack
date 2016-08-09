@@ -19,7 +19,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass'
 gem 'bootswatch-rails'
-gem 'nprogress-rails'
+gem 'nprogress-rails', '~> 0.2.0.2'
+
+gem 'devise'
 
 group :development, :test do
   gem 'byebug', platform: :mri
