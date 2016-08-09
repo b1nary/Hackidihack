@@ -1,24 +1,10 @@
-# README
+# :squirrel: Hackidihack
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A **Rails 5** starter template to ship your projects even faster.
 
-Things you may want to cover:
+Shipped Features:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* build with [Rails 5](http://rubyonrails.org/) & [Bootstrap 4](https://github.com/twbs/bootstrap-sass)
+* [Bootswatch](https://bootswatch.com/) themes
+* [NProgress](http://ricostacruz.com/nprogress/) loading bars for Turbolinks
+* User authentication through [Devise](https://github.com/plataformatec/devise) (Usernames patched)
