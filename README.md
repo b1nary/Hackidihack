@@ -8,3 +8,4 @@ Shipped Features:
 * [Bootswatch](https://bootswatch.com/) themes
 * [NProgress](http://ricostacruz.com/nprogress/) loading bars for Turbolinks
 * User authentication through [Devise](https://github.com/plataformatec/devise) (Usernames patched)
+* [bootstrap_form](https://github.com/bootstrap-ruby/rails-bootstrap-forms) for easy bootstrap conform forms.
