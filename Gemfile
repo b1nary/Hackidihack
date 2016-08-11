@@ -20,6 +20,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'bootswatch-rails'
 gem 'nprogress-rails', '~> 0.2.0.2'
+gem 'bootstrap_form'
 
 gem 'devise'
 
