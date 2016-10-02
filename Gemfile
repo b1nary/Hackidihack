@@ -21,6 +21,7 @@ gem 'bootstrap-sass'
 gem 'bootswatch-rails'
 gem 'nprogress-rails', '~> 0.2.0.2'
 gem 'bootstrap_form'
+gem 'font-awesome-rails'
 
 # pin devise to avoid the chain startup issue
 gem 'devise', :github => 'plataformatec/devise', :branch => 'master'
