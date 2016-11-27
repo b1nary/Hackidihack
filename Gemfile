@@ -7,6 +7,8 @@ gem 'puma', '~> 3.0'
 gem 'sass-rails', github: 'rails/sass-rails'
 gem 'uglifier', '>= 1.3.0'
 
+gem 'rename'
+
 # gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
