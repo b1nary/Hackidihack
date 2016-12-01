@@ -5,4 +5,5 @@
 //= require turbolinks
 //= require nprogress
 //= require nprogress-turbolinks
+//= require data-confirm-modal
 //= require_tree .
