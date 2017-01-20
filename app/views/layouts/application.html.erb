@@ -19,10 +19,8 @@
 
 <body>
   <%= render 'partials/navigation' %>
-
-  <% if flash[:notice] %><div class="alert alert-info text-center"><%= flash[:notice] %></div><% end %>
-  <% if flash[:alert] %><div class="alert alert-danger text-center"><%= flash[:alert] %></div><% end %>
-
+  <%= render 'partials/flash' %>
+  
   <%= yield %>
 
   <footer id="footer">
