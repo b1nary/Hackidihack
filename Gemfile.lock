@@ -73,6 +73,8 @@ GEM
     builder (3.2.2)
     byebug (9.0.6)
     concurrent-ruby (1.0.2)
+    data-confirm-modal (1.2.0)
+      railties (>= 3.0)
     debug_inspector (0.0.2)
     erubis (2.7.0)
     execjs (2.7.0)
@@ -190,6 +192,7 @@ DEPENDENCIES
   bootstrap_form
   bootswatch-rails
   byebug
+  data-confirm-modal
   devise!
   font-awesome-rails
   jbuilder (~> 2.5)
