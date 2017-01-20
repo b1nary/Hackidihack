@@ -44,7 +44,6 @@ chdir APP_ROOT do
   File.open('config/secrets.yml', 'w') {|f| f.write(secrets.to_yaml) }
 
   puts "\n== Preparing database =="
-  system! 'rake db:drop'
   system! 'rake db:create'
   system! 'rake db:migrate'
 
