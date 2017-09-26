@@ -19,3 +19,8 @@ After cloning you most likely want to rename the application, this is why we inc
 Simply go in the directory and type:
 
     rails g rename:app_to YourName
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/b1nary/Hackidihack/badge.svg?style=beer-square)](https://beerpay.io/b1nary/Hackidihack)  [![Beerpay](https://beerpay.io/b1nary/Hackidihack/make-wish.svg?style=flat-square)](https://beerpay.io/b1nary/Hackidihack?focus=wish)
