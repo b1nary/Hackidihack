@@ -1,4 +1,4 @@
-# :squirrel: Support
+# :squirrel: DEPRECATED!!
 
 A **Rails 5** starter template to ship your projects even faster.
 
