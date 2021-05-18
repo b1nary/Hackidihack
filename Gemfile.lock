@@ -114,7 +114,8 @@ GEM
     nprogress-rails (0.2.0.2)
     orm_adapter (0.5.0)
     pg (0.21.0)
-    puma (3.10.0)
+    puma (5.3.1)
+      nio4r (~> 2.0)
     rack (2.0.3)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -206,7 +207,7 @@ DEPENDENCIES
   listen (~> 3.0.5)
   nprogress-rails (~> 0.2.0.2)
   pg
-  puma (~> 3.0)
+  puma (~> 5.3)
   rails (~> 5.0.0)
   rename
   sass-rails!
